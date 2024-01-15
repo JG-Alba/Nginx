@@ -131,16 +131,3 @@ Recuerde que este proceso puede variar dependiendo de la configuración específ
 
 ![image](/img/nginx1.png)
 
-
-## 6.- Referencias
-
-[clouding](https://help.clouding.io/hc/es/articles/360019908839-C%C3%B3mo-configurar-un-servidor-de-balanceo-de-carga-Nginx-en-Ubuntu-20-04)
-
-[red hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/configuring-nginx-as-an-http-load-balancer_setting-up-and-configuring-nginx)
-
-## 7.- Licencia
-
-<p align="center">
-  <img src="/img/licencia.png" alt="licencia">
-</p>
-
