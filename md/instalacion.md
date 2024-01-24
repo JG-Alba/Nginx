@@ -30,7 +30,7 @@ tanto del servidor principal como ambos de carga.
 Dentro del editor, agrega las siguientes líneas:
 
 ```bash
-html>
+<html>
 <title>nginx</title>
 <body>
 Soy el servidor nginx
@@ -47,7 +47,7 @@ Guarda los cambios y cierra el archivo.
 Dentro del editor, agrega las siguientes líneas:
 
 ```bash
-html>
+<html>
 <title>nginx</title>
 <body>
 Soy el servidor nginx de balanceo
